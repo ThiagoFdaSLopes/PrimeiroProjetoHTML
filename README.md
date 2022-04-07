@@ -1,2 +1,2 @@
-# PrimeiroProjetoHTML
-Projeto realizado duranteo curso da rocketseat
+## Primeiro Projeto HTML
+###Projeto realizado durante o curso da rocketseat
